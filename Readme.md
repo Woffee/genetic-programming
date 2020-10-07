@@ -13,6 +13,13 @@ The procedure of the program is quite simple:
 4. If the new painting looks more like the source image than the previous painting did, then overwrite the current DNA with the new DNA
 5. Repeat from 1
 
+
+## Another code
+
+[Mona Lisa](https://colab.research.google.com/drive/1ySTRyUnzAPy5jjW7PmxKstBcHNLGcPSF#scrollTo=0FYdbT9lDi5g)
+
+![Demo](demo2.png)
+
 ### Reference
 
 - https://rogerjohansson.blog/2008/12/07/genetic-programming-evolution-of-mona-lisa/
